@@ -1,12 +1,12 @@
 {
-  "main.js": "/react-lyric-searcher/static/js/main.7fd229fe.chunk.js",
-  "main.js.map": "/react-lyric-searcher/static/js/main.7fd229fe.chunk.js.map",
+  "main.js": "/react-lyric-searcher/static/js/main.09039bb8.chunk.js",
+  "main.js.map": "/react-lyric-searcher/static/js/main.09039bb8.chunk.js.map",
   "runtime~main.js": "/react-lyric-searcher/static/js/runtime~main.8a76aeac.js",
   "runtime~main.js.map": "/react-lyric-searcher/static/js/runtime~main.8a76aeac.js.map",
   "static/js/2.8bb8963b.chunk.js": "/react-lyric-searcher/static/js/2.8bb8963b.chunk.js",
   "static/js/2.8bb8963b.chunk.js.map": "/react-lyric-searcher/static/js/2.8bb8963b.chunk.js.map",
   "index.html": "/react-lyric-searcher/index.html",
-  "precache-manifest.18b3bbfff63b6e253309010d078e2061.js": "/react-lyric-searcher/precache-manifest.18b3bbfff63b6e253309010d078e2061.js",
+  "precache-manifest.85c09ac2e9a69fcc19a6c398f602dac7.js": "/react-lyric-searcher/precache-manifest.85c09ac2e9a69fcc19a6c398f602dac7.js",
   "service-worker.js": "/react-lyric-searcher/service-worker.js",
   "static/media/spinner.gif": "/react-lyric-searcher/static/media/spinner.9209e391.gif"
 }

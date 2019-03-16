@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/react-lyric-searcher/static/js/runtime~main.8a76aeac.js"
   },
   {
-    "revision": "caef68a0f151aa6ad602",
-    "url": "/react-lyric-searcher/static/js/main.7fd229fe.chunk.js"
+    "revision": "292a619f1cab83a29d0a",
+    "url": "/react-lyric-searcher/static/js/main.09039bb8.chunk.js"
   },
   {
     "revision": "295fdcd126f1dab332f5",
     "url": "/react-lyric-searcher/static/js/2.8bb8963b.chunk.js"
   },
   {
-    "revision": "b00e54ba5ad1fa353888128ffceeefe9",
+    "revision": "924913734a03c475e1af2ad0cde8f9d6",
     "url": "/react-lyric-searcher/index.html"
   }
 ];
