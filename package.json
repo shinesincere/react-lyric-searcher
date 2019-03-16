@@ -1,0 +1,40 @@
+{
+  "homepage": "https://shinesincere.github.io/react-lyric-searcher",
+  "name": "react-lyric-searcher",
+  "description": "react-based, lyric-searching app",
+  "keywords": [
+    "react",
+    "lyric",
+    "bootstrap"
+  ],
+  "author": "shine sincere",
+  "version": "1.0.0",
+  "private": true,
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
